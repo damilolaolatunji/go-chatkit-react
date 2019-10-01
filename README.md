@@ -1,6 +1,6 @@
 # Go Chat App
 
-Build a chat application with Go and React. Tutorial:
+Build a chat application with Go and React. Tutorial: https://pusher.com/tutorials/chat-Go-react
 
 ## Getting Started
 
